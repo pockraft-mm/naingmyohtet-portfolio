@@ -180,6 +180,7 @@ function App() {
                 <a href="https://www.linkedin.com/in/naing-myo-htet-032420434" target="_blank" rel="noreferrer">LinkedIn <ArrowUpRight size={13} /></a>
                 <a href="https://github.com/naingmyoxtet009" target="_blank" rel="noreferrer">GitHub <ArrowUpRight size={13} /></a>
               </div>
+              <span className="pockraft-credit">Built with Pockraft</span>
               <span>© 2026</span>
             </div>
           </div>
