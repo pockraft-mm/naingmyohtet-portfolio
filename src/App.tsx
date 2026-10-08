@@ -103,7 +103,7 @@ function App() {
           <div className="container hero-grid">
             <div className="hero-copy">
               <p className="eyebrow">Computer Science &amp; Engineering Student</p>
-              <h1>Naing Myo Htet</h1>
+              <h1>Naing Myo<br className="mobile-break" /> Htet</h1>
               <p className="hero-role">Myanmar Institute of Information Technology</p>
             </div>
             <div className="hero-portrait">

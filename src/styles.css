@@ -75,3 +75,26 @@ html.has-reveal .service:nth-child(5){transition-delay:.28s}
 .profile-image{width:320px;height:320px}
 @media(max-width:720px){.portfolio-hero{padding-top:92px}.profile-image{width:200px;height:200px}}
 @media(max-width:520px){.portfolio-hero{padding-top:78px}.profile-image{width:160px;height:160px}}
+.mobile-break{display:none}
+@media(max-width:720px){
+  .hero-grid{grid-template-columns:minmax(0,1fr);column-gap:0}
+  .hero-copy,.hero-intro{grid-column:1}
+  .hero-portrait{grid-column:1;grid-row:auto}
+  .mobile-break{display:block}
+  .facts{grid-template-columns:1fr}
+  .facts div:nth-child(odd){margin-right:0}
+  .projects{gap:26px}
+  .project-kicker{gap:8px}
+  .project-kicker span:first-child{min-width:0}
+  .facts dd,.service p{overflow-wrap:anywhere}
+}
+@media(max-width:420px){
+  .container{width:calc(100% - 32px)}
+  .site-header{padding-inline:16px}
+  .nav{gap:5px;font-size:10px}
+  .portfolio-hero h1{font-size:54px}
+  .project{padding:16px}
+  .project-copy h3{font-size:21px}
+  .contact-bottom{gap:13px}
+  .social-links{gap:12px}
+}
