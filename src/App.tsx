@@ -114,6 +114,7 @@ function App() {
               <div className="hero-actions">
                 <a className="button button-default" href="#work">View My Work <ArrowUpRight size={14} /></a>
                 <a className="button button-outline" href="#contact">Contact</a>
+                <a className="button button-outline" href="/Black%20and%20White%20Clean%20Professional%20A4%20Resume%20(1)%20-%20Naing%20Myo%20Xtet.pdf" download="Naing-Myo-Htet-CV.pdf">Download CV</a>
               </div>
             </div>
           </div>
