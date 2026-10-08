@@ -9,7 +9,9 @@ Personal portfolio for Naing Myo Htet, a Computer Science and Engineering studen
 - Vite
 - Lucide React
 
-Crafted by **Pockraft**.
+## Credit
+
+Craft by Pockraft.
 
 ## Run locally
 
