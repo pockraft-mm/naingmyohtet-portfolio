@@ -70,3 +70,8 @@ html.has-reveal .service:nth-child(5){transition-delay:.28s}
 .project-copy{padding-top:0}
 @media(max-width:720px){.project{padding:18px}}
 :root{--card:#11171e}
+.portfolio-hero{padding-top:124px}
+.hero-grid{grid-template-columns:minmax(0,1fr) 340px}
+.profile-image{width:320px;height:320px}
+@media(max-width:720px){.portfolio-hero{padding-top:92px}.profile-image{width:200px;height:200px}}
+@media(max-width:520px){.portfolio-hero{padding-top:78px}.profile-image{width:160px;height:160px}}
