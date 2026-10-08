@@ -9,7 +9,7 @@ Personal portfolio for Naing Myo Htet, a Computer Science and Engineering studen
 - Vite
 - Lucide React
 
-The portfolio was built with **Pockraft**.
+Crafted by **Pockraft**.
 
 ## Run locally
 
